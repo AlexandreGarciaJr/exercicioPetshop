@@ -15,4 +15,3 @@
 - Verifica e Retira Pet da Máquina
 
 
-#### Para testar a API, recomendo o aplicativo postman. Executar api e abrir swagger na porta local.
